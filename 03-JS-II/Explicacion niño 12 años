@@ -8,3 +8,21 @@ for (var i = 0; i > 10; i++)
 "i++" la variable incrementada
 
 
+Operadores logicos "&&", "||" y "!"
+
+Podemos usar estas 2 expresiones para preguntar si alguna de las 2 es verdadera, si ambas son verdaderas o ninguna de ellas.  
+
+&& = AND = Y
+
+Si ambas expresiones son ciertas, devuelve true. 
+Si alguna expresion es falsa, devolvera false.
+
+OR = O = ||
+
+Si ambas expresiones son ciertas, devuelve true.
+Si una es correcta, devuelve true.
+Si ambas son falsas, devuelve false.
+
+NOT = NO = !
+
+
