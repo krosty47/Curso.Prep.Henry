@@ -59,11 +59,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/77493188/ws?session=eyJ2IjoiVjMiLCJ1Ijo3NzQ5MzE4OCwicyI6NjM1NzgxODQ0LCJjIjo5ODc0MTc4NjIsInQiOjE2MTE1MTQ5MzJ9--38c2d3a0b1c0d011f4e96b07ea58d4c60fe67e507fd27970e2e9763f58a50451" data-refresh-url="/_alive">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/77493188/ws?session=eyJ2IjoiVjMiLCJ1Ijo3NzQ5MzE4OCwicyI6NjM1NzgxODQ0LCJjIjozMDAxNzg2MjczLCJ0IjoxNjExNTE1NTc4fQ==--35dcdb4cd1972dba40076d4f47c03ea7b7322dd4df6679fe637d2de684bb6a71" data-refresh-url="/_alive">
     <link rel="shared-web-socket-src" href="/socket-worker-5029ae85.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="7289:426B:1233A13:18CDAC9:600DC431" data-pjax-transient="true" /><meta name="html-safe-nonce" content="d68d64a8669efc356afbaa0e86adfb3966e7d65b5a230089dabb01f87a8889ff" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9hdHJhbGljZS9DdXJzby5QcmVwLkhlbnJ5L3RyZWUvbWFzdGVyLzAzLUpTLUlJL2hvbWV3b3JrL3Rlc3RzIiwicmVxdWVzdF9pZCI6IjcyODk6NDI2QjoxMjMzQTEzOjE4Q0RBQzk6NjAwREM0MzEiLCJ2aXNpdG9yX2lkIjoiMzUxNDA5NTY5ODYzNzUzOTcxMyIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="cd573dd2b82dde00ce9723ab3cc283066add0c7dd519403e9db7bf3b90153464" data-pjax-transient="true" />
+  <meta name="request-id" content="726B:1E8F:5B8ED6:97A638:600DC6B1" data-pjax-transient="true" /><meta name="html-safe-nonce" content="d68d64a8669efc356afbaa0e86adfb3966e7d65b5a230089dabb01f87a8889ff" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9hdHJhbGljZS9DdXJzby5QcmVwLkhlbnJ5L3RyZWUvbWFzdGVyLzAzLUpTLUlJL2hvbWV3b3JrL3Rlc3RzIiwicmVxdWVzdF9pZCI6IjcyNkI6MUU4Rjo1QjhFRDY6OTdBNjM4OjYwMERDNkIxIiwidmlzaXRvcl9pZCI6IjM1MTQwOTU2OTg2Mzc1Mzk3MTMiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="6b4a6a50ceaaa159262cac7f7ef627c7d9e3952cf115a70e20f92ac5af913d1a" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:266851712" data-pjax-transient>
 
@@ -102,7 +102,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="OTNjNTZhMjZjNGM4YjBlZmRmM2RiY2U3YTExYzljMjJkN2ZlNmI3YjRmMjdmZTcxOTFkNTM3NzA0ODgwMmI3NHx7InJlbW90ZV9hZGRyZXNzIjoiMTgxLjQ2LjY5LjE5MSIsInJlcXVlc3RfaWQiOiI3Mjg5OjQyNkI6MTIzM0ExMzoxOENEQUM5OjYwMERDNDMxIiwidGltZXN0YW1wIjoxNjExNTE0OTMyLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+      <meta name="js-proxy-site-detection-payload" content="ZGJhZGJlNDNjMTcwMzI1NDQ3OWIyN2I4YzI5MzVmNWVhZjU5Y2E1ZGMwNmM4MDg4ZWNiOGY2OWUzMTMzZjgwMnx7InJlbW90ZV9hZGRyZXNzIjoiMTgxLjQ2LjY5LjE5MSIsInJlcXVlc3RfaWQiOiI3MjZCOjFFOEY6NUI4RUQ2Ojk3QTYzODo2MDBEQzZCMSIsInRpbWVzdGFtcCI6MTYxMTUxNTU3OCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_HTTP_CACHE_HEADERS,ACTIONS_SHORT_SHA_WARNING,TASK_LIST_AUTOCOMPLETE,MULTI_WORD_SUGGESTER">
 
@@ -191,7 +191,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="DoRUmkXlHt9NhDbNebp540iULKk+54SPAegUNwy7EK3zdRqXInakSHT7CrIc9GnY7AWKatMaDvZKfr0O00XCKQ==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="lRpWt/QkBWJLXjpqFt36c4gPUHhgoFBObzf1AgpQ3e9o6xi6k7e/9XIhBhVzk+pILJ72u41d2jckoVw71a4Paw==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -380,7 +380,7 @@
       <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/77493188?s=40&amp;v=4" width="20" height="20" alt="@krosty47" />
       krosty47
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="HxMoHUq1NHHDpAqu0ZMEqh44v3vxk5/NLNL1xYWO5AXOO8tHoatwrMqWKAsvmNYWmTI+5Pk3ljgGthALSeTuZg==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="/wIM7aW536DncJIGuDFlZQ9WJWqRHIQJQnC6mzDWMLMuKu+3Tqebfe5CsKNGOrfZiFyk9Zm4jfxoFF9V/Lw60A==" />
       <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15 d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
@@ -400,7 +400,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6Nzc0OTMxODgiLCJ0IjoxNjExNTE0OTMyfQ==--88934a6423eda4c0dc3104e46c6d4fab826f3e565964028f9049e448513b2381">
+    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6Nzc0OTMxODgiLCJ0IjoxNjExNTE1NTc4fQ==--95309268760cfd956f979f039f221001127b10ca34665df897924c80d3aee62f">
       <a href="/notifications"
          class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
          
@@ -619,7 +619,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="AATXQtPWjto/szaa0ZWbaUXn6pgVcKd0YSS9MGY2UkJExCJh63dHPep11w45GGTlytQ05U7SeNoL+PeiZ9Q2iA==" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BycLMxqQyLL3xWz8jncg+G0dBQ3cMDJx5Dkd4cbgBgBD5/4QIjEBVSIDjWhm+t904i7bcIeS7d+O5VdzxwJiyg==" />
 
                 <input type="hidden" name="repository_id" value="266851712">
 
@@ -721,7 +721,7 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5y/rA7VbRH6DSYRAY4RwnRfyqPibKs6mc5a5RZknmICj7x4gjfqNmVaPZdSLCY8RmMF2hcCIEQgZSvPXmMX8Sg==" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ghhncM0uce3i5SgS+hQXbMB9L2VNhOGU8Sj4XPa2RufG2JJT9Y+4CjcjyYYSmejgT07xGBYmPjqb9LLO91QiLQ==" />
 
               <input type="hidden" name="repository_id" value="266851712">
 
@@ -858,7 +858,7 @@
 
   <li>
         <div class="d-block js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/atralice/Curso.Prep.Henry/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WoeuxRbkMyQBmslT8XrY4hvi+aBFMNxmyuDnFpPsKjkCP/3OkTGtwfLXw1dsNpcNogympaljwD5nnqtsNr9d4w==" />
+    <form class="starred js-social-form" action="/atralice/Curso.Prep.Henry/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="EZ16GnvdEiLFQisBX2rJJZm9O5Qf5Yvys7gsWtD0ySFJJSkR/AiMxzYPIQXCJobKIFNkkfO2l6oexmAgdae++w==" />
       <input type="hidden" name="context" value="repository">
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar atralice/Curso.Prep.Henry" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:266851712,&quot;originating_url&quot;:&quot;https://github.com/atralice/Curso.Prep.Henry/blob/master/03-JS-II/homework/tests/JSII.test.js&quot;,&quot;user_id&quot;:77493188}}" data-hydro-click-hmac="e1aeb0cc0c9947e33f937982837d864646174b60ad071f973d9d12ca42f9a487" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star-fill mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
         <span>
@@ -868,7 +868,7 @@
            96
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/atralice/Curso.Prep.Henry/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Qm/rmZB4SiQN3YdlQAxSVzUizd4dJt0znAAgrSms7yqONOgQ9SzJvWFLBHetgzzgKsrTBw3ADF9LKdmlUzpt0g==" />
+    <form class="unstarred js-social-form" action="/atralice/Curso.Prep.Henry/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="+pHyOn4qMqZdO/3A0PKMEjo4c61es0RgPhJI4mqdTWA2yvGzG36xPzGtftI9feKlJdBtdE5VlQzpO7HqEAvPmA==" />
       <input type="hidden" name="context" value="repository">
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star atralice/Curso.Prep.Henry" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:266851712,&quot;originating_url&quot;:&quot;https://github.com/atralice/Curso.Prep.Henry/blob/master/03-JS-II/homework/tests/JSII.test.js&quot;,&quot;user_id&quot;:77493188}}" data-hydro-click-hmac="de3c2db5057e7ccbe499049292d845b2be803ea9c11422d6d9ed207c9500a185" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
         <span>
@@ -882,7 +882,7 @@
   </li>
 
   <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/atralice/Curso.Prep.Henry/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="sbrivhXMQntY+sjvl6ssvhSxyylrdDaty0kMVyGin3kOfBSl+CysAP+JEsa3xK6SsjkZ/ATEEgl/iTy30FygPg==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/atralice/Curso.Prep.Henry/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WYTbrpgttnux+CJFhNcNjiCCAGsGghdbHE5fT37lcp3mQi21dc1YABaL+GykuI+ihgrSvmkyM/+ojm+vjxtN2g==" />
               <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:266851712,&quot;originating_url&quot;:&quot;https://github.com/atralice/Curso.Prep.Henry/blob/master/03-JS-II/homework/tests/JSII.test.js&quot;,&quot;user_id&quot;:77493188}}" data-hydro-click-hmac="e8850aa0ffb6b36c5833525e4a02bae3fdcaf1bf7e2415823abb27ca4c89652d" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of atralice/Curso.Prep.Henry to your account" aria-label="Fork your own copy of atralice/Curso.Prep.Henry to your account">                <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
                 Fork
 </button></form>
@@ -1106,86 +1106,17 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      
-  <div class="Box-header Box-header--blue Details js-details-container">
-      <div class="d-flex flex-items-center">
-        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/elenaGonzalez/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/elenaGonzalez"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/4389103?s=48&amp;v=4" width="24" height="24" alt="@elenaGonzalez" /></a>
-        </span>
-        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-          <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold link-gray-dark" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/elenaGonzalez/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/elenaGonzalez">elenaGonzalez</a>
-
-              <span>
-                <a data-pjax="true" title="Corrige errores de test y enunciados en la homework 03-JS-II" class="link-gray" href="/atralice/Curso.Prep.Henry/commit/53205b4218ed2c6933b3f17b025b75902b156fa5">Corrige errores de test y enunciados en la homework 03-JS-II</a>
-              </span>
-          </div>
-
-
-          <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/atralice/Curso.Prep.Henry/commit/53205b4218ed2c6933b3f17b025b75902b156fa5/rollup?direction=e" class="d-inline"></include-fragment>
-          </span>
+      <include-fragment src="/atralice/Curso.Prep.Henry/contributors/master/03-JS-II/homework/tests/JSII.test.js" class="commit-loader">
+        <div class="Box-header Box-header--blue d-flex flex-items-center">
+          <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+          <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
         </div>
-        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end text-gray no-wrap">
-          <span class="d-none d-md-inline">
-            <span>Latest commit</span>
-            <a class="text-small text-mono link-gray" href="/atralice/Curso.Prep.Henry/commit/53205b4218ed2c6933b3f17b025b75902b156fa5" data-pjax>53205b4</a>
-            <span itemprop="dateModified"><relative-time datetime="2021-01-20T15:50:30Z" class="no-wrap">Jan 20, 2021</relative-time></span>
-          </span>
 
-          <a data-pjax href="/atralice/Curso.Prep.Henry/commits/master/03-JS-II/homework/tests/JSII.test.js" class="ml-3 no-wrap link-gray-dark no-underline">
-            <svg class="octicon octicon-history text-gray" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path></svg>
-            <span class="d-none d-sm-inline">
-              <strong>History</strong>
-            </span>
-          </a>
+        <div class="Box-body d-flex flex-items-center" >
+          <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+          <span class="text-red h6 loader-error">Cannot retrieve contributors at this time</span>
         </div>
-      </div>
-
-  </div>
-
-  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
-    <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-3" id="blob_contributors_box">
-      <summary class="link-gray-dark">
-        <svg class="octicon octicon-people text-gray" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path></svg>
-        <strong>3</strong>
-        
-        contributors
-      </summary>
-      <details-dialog
-        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-        aria-label="Users who have contributed to this file"
-        src="/atralice/Curso.Prep.Henry/contributors-list/master/03-JS-II/homework/tests/JSII.test.js" preload>
-        <div class="Box-header">
-          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-            <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
-          </button>
-          <h3 class="Box-title">
-            Users who have contributed to this file
-          </h3>
-        </div>
-        <include-fragment>
-          <svg viewBox="0 0 16 16" fill="none" style="box-sizing: content-box; color: var(--color-icon-primary);" class="my-3 mx-auto d-block" width="32" height="32">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke">
-    <animateTransform attributeName="transform" type="rotate" from="0 8 8" to="360 8 8" dur="1s" repeatCount="indefinite" />
-  </path>
-</svg>
-        </include-fragment>
-      </details-dialog>
-    </details>
-      <span class="">
-    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/WanCirone/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/atralice/Curso.Prep.Henry/commits/master/03-JS-II/homework/tests/JSII.test.js?author=WanCirone">
-      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/65045693?s=48&amp;v=4" width="24" height="24" alt="@WanCirone" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/elenaGonzalez/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/atralice/Curso.Prep.Henry/commits/master/03-JS-II/homework/tests/JSII.test.js?author=elenaGonzalez">
-      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/4389103?s=48&amp;v=4" width="24" height="24" alt="@elenaGonzalez" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/atralice/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/atralice/Curso.Prep.Henry/commits/master/03-JS-II/homework/tests/JSII.test.js?author=atralice">
-      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/2078339?s=48&amp;v=4" width="24" height="24" alt="@atralice" /> 
-</a>
-</span>
-
-  </div>
-    </div>
+</include-fragment>    </div>
 
 
 
@@ -1221,13 +1152,13 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/atralice/Curso.Prep.Henry/edit/master/03-JS-II/homework/tests/JSII.test.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="P3xDGLXeXg+BdpG+J4OzfS/NSsIoVy5VKanU++kuXJUPDA8yvfWX7OcX9GDp2mOTU1bnSF1G9XbT6iZ97fKmZg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/atralice/Curso.Prep.Henry/edit/master/03-JS-II/homework/tests/JSII.test.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="We05XvE4VaOktGLwDTrdSe259YEw5NI6XHyo8/Hxm4RpnXV0+ROcQMLVBy7DYw2nkSJYC0X1CRmmP1p19S1hdw==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Edit the file in your fork of this project" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/atralice/Curso.Prep.Henry/delete/master/03-JS-II/homework/tests/JSII.test.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="O7O4bKDD8NWu31UVkRITfiwjAlQoqOkVfhZZQ9vDuQ36LChoVGitcfIiBcsPCAM/s7Eni7tUMuIOZW8UPxE1xA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/atralice/Curso.Prep.Henry/delete/master/03-JS-II/homework/tests/JSII.test.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="6QG69JroZSv1FUXJvprt+4DgFA2r/XgqhyQM0EF28MconirwbkM4j6noFRcggP26H3Ix0jgBo933VzqHpaR8Dg==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete the file in your fork of this project" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
