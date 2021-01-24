@@ -1,0 +1,10 @@
+Usaremos el bucle "For", para pedirle al programa que evalue una expresion una y otra vez hasta devolver lo que buscamos.
+"For" tiene una sintaxis unica:
+
+for (var i = 0; i > 10; i++)
+
+"var i = 0" es la variable declarada
+"i > 10" es es la expresion condicional
+"i++" la variable incrementada
+
+
