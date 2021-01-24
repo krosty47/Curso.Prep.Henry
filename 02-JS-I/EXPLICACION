@@ -1,0 +1,18 @@
+02-JS-I
+
+Variables: Sirven para almacenar el valor de algo y usarlos mas tarde.
+
+Strings: Todos los textos en comillas son strings. ("")
+
+Funciones: Las funciones sirven para invocar objetos y usarlos. Luego de crear la
+funcion con el nombre, podemos agregarle argumentos para usarlos dentro de ella.
+ return= al momento de usarlo en la descripcion dentro de la funcion, a ese punto
+va devolver lo especificado.
+
+Declaraciones "if" : 
+
+Es un controlador de flujo y comparacion, es la forma de verificar si algo es true
+o false.
+
+
+
