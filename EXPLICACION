@@ -1,3 +1,4 @@
+02-JS-I
 
 Variables: Sirven para almacenar el valor de algo y usarlos mas tarde.
 
@@ -12,3 +13,42 @@ Declaraciones "if" :
 
 Es un controlador de flujo y comparacion, es la forma de verificar si algo es true
 o false.
+
+03-JS-II
+
+Expresion: las expresiones tienen un resultado y se pueden concatenar
+
+Statment: If, else, for, while.
+
+JS en statment, cualquier numero excepto el 0 es true.
+Todas las Strins son true, excepto el string vacio: '',"".
+
+El triple ===, compara valor y tipo de dato. (siempre usar este)
+El doble ==, compara solo el valor y JS intenta modificar uno de los 2
+para hacer la comparacion.
+! SIGNO DE NEGACION
+
+
+OPERADORES LOGICOS
+
+AND  Y  &&
+OR   O  ||
+NOT  NO  !
+
+BUCLES
+
+FOR
+
+Tiene 3 partes:
+
+for (var i = 0; i <=100; i++) {
+   // bloque de codigo
+}
+
+var i = 0 (se crea una variable para la condicion)
+
+
+
+
+
+
