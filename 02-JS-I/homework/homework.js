@@ -62,9 +62,8 @@ function sonIguales(x, y) {
   // Tu código:
   if (x === y) {
     return true;
-  } else {
+  } 
     return false;
-  }
 }
 
 
@@ -81,9 +80,8 @@ function menosQueNoventa(num) {
   // Tu código:
   if (num < 90){
     return true;
-  }else {
-    return false;
   }
+    return false;
 }
 
 function mayorQueCincuenta(num) {
@@ -92,9 +90,8 @@ function mayorQueCincuenta(num) {
   // Tu código:
   if (num > 50){
     return true;
-  } else {
+  } 
     return false;
-  }
 }
 
 function obtenerResto(x, y) {
@@ -110,9 +107,8 @@ function esPar(num) {
   // Tu código:
   if (num % 2 === 0){
     return true;
-  }else{
-    return false;
   }
+    return false;
   }
 
 function esImpar(num) {
@@ -121,9 +117,8 @@ function esImpar(num) {
   // Tu código:
   if (num % 2 === 1){
     return true;
-  }else{
-    return false;
   }
+    return false;
 }
 
 function elevarAlCuadrado(num) {
@@ -174,9 +169,7 @@ function esPositivo(numero) {
   else if (numero > 0){
     return "Es positivo";
   }
-  else {
   return "Es negativo";
-  }
 }
 
 
@@ -191,15 +184,15 @@ function combinarNombres(nombre, apellido) {
   // Devuelve "nombre" y "apellido" combinados en una string y separados por un espacio.
   // Ejemplo: "Soy", "Henry" -> "Soy Henry"
   // Tu código:
-  var combinados = nombre + ' ' + apellido;
-  return combinados;
+  return nombre + " " + apellido;
 }
 
 function obtenerSaludo(nombre) {
   // Toma la string "nombre" y concatena otras string en la cadena para que tome la siguiente forma:
   // "Martin" -> "Hola Martin!"
   // Tu código:
-  return 'Hola ' + nombre + '!';
+  let saludo = "Hola";
+  return saludo + " " + nombre + "!";
 }
 
 function obtenerAreaRectangulo(alto, ancho) {
@@ -238,7 +231,7 @@ function esVocal(letra){
   if (letra.length > 1) {
     return "Dato incorrecto"
   }
-  if (letra === "a" || letra === "e" || letra ==="i" || letra ==="o" || letra ==="u" ){
+  else if (letra === "a" || letra === "e" || letra === "i" || letra === "o" || letra === "u" ){
     return "Es vocal"
   }
 }
