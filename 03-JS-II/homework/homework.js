@@ -41,16 +41,15 @@ function saludo(idioma) {
   // Si "idioma" es "aleman", devuelve "Guten Tag!"
   // Si "idioma" es "mandarin", devuelve "Ni Hao!"
   // Si "idioma" es "ingles", devuelve "Hello!"
-  // Si "idioma" no es ninguno de los anteiores o es `undefined` devuelve "Hola!"
+  // Si "idioma" no es ninguno de los anteriores o es `undefined` devuelve "Hola!"
   // Tu código:
-  if (idioma === "aleman"){
-    return "Guten Tag!"
-  }
-  if (idioma === "mandarin"){
-    return "Ni Hao!";
-  }
-  if (idioma === "ingles"){
-    return "Hello!";
+  switch (idioma){
+    case "aleman":
+      return "Guten Tag!";
+    case "mandarin":
+      return "Ni Hao!";
+    case "ingles":
+      return "Hello!"; 
   }
   return "Hola!";
 }
@@ -81,10 +80,7 @@ function esDiezOCinco(numero) {
   // Devuelve "true" si "numero" es 10 o 5
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (numero === 10 || numero === 5){
-    return true;
-  }
-  return false;
+  return numero === 10 || numero === 5;
 }
 
 function estaEnRango(numero) {
@@ -102,11 +98,7 @@ function esEntero(numero) {
   // De lo contrario, devuelve "false"
   // Pista: Puedes resolver esto usando `Math.floor`
   // Tu código:
-  if (Math.floor(numero) || numero === 0){
-    return true;
-  }
-  return false;
-  
+  return Math.floor(numero) === numero;
 }
 
 function fizzBuzz(numero) {
@@ -133,25 +125,21 @@ function operadoresLogicos(num1, num2, num3) {
   //Si num3 es más grande que num1 y num2, aumentar su valor en 1 y retornar el nuevo valor.
   //0 no es ni positivo ni negativo. Si alguno de los argumentos es 0, retornar "Error".
   //Si no se cumplen ninguna de las condiciones anteriores, retornar false.
-  if (num1 < 0 || num2 < 0 || num3 < 0){
-    return "Hay negativos";
-  }
-  else if (num1 === 0 || num2 === 0 || num3 === 0){
+  if (num1 === 0 || num2 === 0 || num3 === 0){
     return "Error";
-  }
-  if (num1 < 0 && num2 < 0 && num3 < 0){
+    }
+    else if (num1 < 0 || num2 < 0 || num3 < 0){
     return "Hay negativos";
-  }
-  else if (num1 > num2 && num1 > num3 && num1 >=0){
+    }
+    else if (num1 > num2 && num1 > num3 && num1 > 0){
     return "Número 1 es mayor y positivo";
-  }
-  else if (num3 > num1 && num3 > num2){
-    return num3 + 1
-  }
-  else {
+    }
+    else if (num3 > num1 && num3 > num2){
+    return num3 +1;
+    }
     return false;
   }
-}
+
 
 function esPrimo(numero) {
   // Devuelve "true" si "numero" es primo

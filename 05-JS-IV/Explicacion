@@ -1,0 +1,38 @@
+OBJETOS -
+
+Al igual que las matrices, los objetos son contenedores de informacion. Dentro mediante el par CLAVE-VALOR, podremos almacenar funciones, arrays, strings, numeros, etc.
+
+PROPIEDADES-
+
+Podremos acceder al objeto mediente la propiedad, asi como llamamos a la propiedad .length, en caso de los objetos, llamaremos a la propiedad CLAVE-VALOR.
+
+METODOS-
+
+Dijimos que en un objeto se pueden almacenar funciones, en este caso se llama "metodo" a la funcion dentro del objeto almacenada en VALOR.  (CLAVE-VALOR).
+
+BUCLE "FOR...IN" - 
+
+Los objetos al no contener indices numericos, el bucle estandar (for), no funcionara para buscar dentro del objeto. Comienza igual ("for") pero en el parentesis declaramos 
+una variable, luego la palabra clave "in" y el nombre del objeto.
+
+NOTACIONES PARA OBJETOS-
+
+Se pueden acceder a los valores de 2 maneras:
+*Podemos acceder por propiedad con "."
+
+var usuario = {
+    username: "pedro",
+    password: "123",
+    loveJS: true,
+};
+
+usuario.loveJS; // true
+usuario.username; // pedro
+
+O podemos acceder usando corchetes "[]"
+
+var = passString = "password";
+usuario["loveJS"]; // true
+usuario["username"]; // pedro
+user[passString]; // 123
+

@@ -25,11 +25,11 @@ function incrementarPorUno(array) {
   // Aumenta cada entero por 1
   // y devuelve el array
   // Tu código
-  let nuevoArray = [];
-  for (let i = 0; i < array.length;i++){
-    nuevoArray[i] = array[i] + 1; 
-  }
-  return nuevoArray;
+   let nuevoArray = [];
+ for (let i = 0; i < array.length;i++){
+   nuevoArray[i] = array[i] + 1;
+ }
+ return nuevoArray;
 }
 
 
@@ -80,14 +80,12 @@ function agregarNumeros(numeros) {
   // "array" debe ser una matriz de enteros (int/integers)
   // Suma todos los enteros y devuelve el valor
   // Tu código:
-  let suma = 0;
-  for (let i = 0; i< numeros.length;i++){
-  suma = suma + numeros[i];
-  }
-  return suma;
-  
+    let suma = 0;
+    for (let i = 0; i< numeros.length;i++){
+    suma = suma + numeros[i];
+    }
+    return suma;
 }
-
 
 function promedioResultadosTest(resultadosTest) {
   // "resultadosTest" debe ser una matriz de enteros (int/integers)

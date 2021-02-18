@@ -1,0 +1,8 @@
+PROTOTYPE
+
+El prototype o proto nos sirve para agregar funcionalidad(metodos/funciones) a todos los objetos creados de la misma Clase. Tambien para recorrer sus objetos.
+
+__constructors__ (de clases)
+
+En una clase solo puede haber un constructor. 
+
