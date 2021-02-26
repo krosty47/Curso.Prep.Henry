@@ -119,7 +119,7 @@ function multiplicarArgumentos() {
     let multi = 1;
     for (let i = 0;i<arguments.length;i++){
     
-      multi = arguments[i] * multi;
+      multi *= arguments[i];
     }
     return multi;
 }
